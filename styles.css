@@ -2100,7 +2100,7 @@ body {
         width: 150px;
         position: fixed;
         top: 610px;
-        right: 140px;
+        right: 130px;
         margin: 10px auto;
         text-align: center;
         background-color: #c9afe9;
@@ -2161,7 +2161,7 @@ body {
         height: 200px;
         position: fixed;
         top: 50px;
-        right: 100px;
+        right: 110px;
     }
 
     .overlay {
